@@ -7,4 +7,7 @@ $(document).ready(function() {
     $("ul#cat").prepend("<li>Meow!!!</li>");
   });
 
+  $('h2').click(function(){
+    $('img#puppy').toggle();
+  })
 });
