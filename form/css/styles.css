@@ -2,10 +2,15 @@
 
 p {
   text-align: right;
+  line-height: 17px;
 }
 #jumbotron {
   display:none;
   padding-top: 100px;
+}
+
+.jumbotron {
+  height: 500px;
 }
 
 #blanks {
