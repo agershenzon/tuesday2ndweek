@@ -1,0 +1,21 @@
+
+
+p {
+  text-align: right;
+  line-height: 17px;
+}
+#jumbotron {
+  display:none;
+  padding-top: 100px;
+}
+
+.jumbotron {
+  height: 500px;
+}
+
+#blanks {
+  padding-top: 100px;
+}
+.form-group {
+  padding-top: 40px;
+}
